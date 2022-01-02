@@ -30,6 +30,6 @@ docker:結合beautifulsoup ,request 自動化定時爬蟲
 
 
 
-技術架構圖![alt text](https://raw.githubusercontent.com/ortonrocks/AI_MovieHelper-Project/main/structure.jpg?raw=true))
+技術架構圖![alt text](https://raw.githubusercontent.com/ortonrocks/AI_MovieHelper-Project/main/structure.jpg?raw=true)
 
 
